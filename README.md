@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- LOCAL SVG HEADER — 100% stable, no external dependency -->
-<img src="header.svg" width="100%" alt="Loi Chiang Hao - Cybersecurity & AI Developer"/>
+<img src="header.svg" width="100%" alt="Loi Chiang Hao — Cybersecurity & AI Developer"/>
 
 <br/>
 
@@ -16,22 +15,7 @@
 
 ## ⚡ About Me
 
-```yaml
-Name     : Loi Chiang Hao
-Role     : Cybersecurity & AI Developer  |  Full-Stack Engineer
-School   : UTAR — Info Tech (Comms & Networking)
-Status   : Final Year (2022–Present)  |  Open to Opportunities
-MUET     : Band 4.0
-
-Focus:
-  - AI-Driven Cybersecurity & Intrusion Detection
-  - Zero-Trust BFF Architectures
-  - ML Models, RAG Pipelines & LLM Engineering
-  - Real-Time Threat Analysis & Network Forensics
-
-Philosophy:
-  "Moving from Passive Monitoring → Proactive Defence"
-```
+<img src="about.svg" width="100%" alt="About Me"/>
 
 ---
 
@@ -71,21 +55,9 @@ Philosophy:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Skill Matrix
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Hao610&cache_seconds=86400&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=A0AEC0&include_all_commits=true&count_private=true" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hao610&cache_seconds=86400&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=A0AEC0&langs_count=6" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Hao610&cache_seconds=86400&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=A0AEC0&dates=A0AEC0" width="60%"/>
-
-</div>
+<img src="stats.svg" width="100%" alt="Tech Proficiency"/>
 
 ---
 
@@ -138,9 +110,5 @@ Philosophy:
 ---
 
 <div align="center">
-
-![Footer](https://img.shields.io/badge/Always_Learning._Always_Securing._🔐-0D1117?style=for-the-badge&labelColor=0D1117&color=00D9FF)
-
-<sub>⚡ Built with passion · <a href="https://loichianghao.vercel.app">loichianghao.vercel.app</a> · 2026</sub>
-
+<img src="footer.svg" width="100%" alt="Footer"/>
 </div>
