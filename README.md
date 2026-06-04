@@ -75,15 +75,15 @@ Philosophy:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hao610&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=A0AEC0&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Hao610&cache_seconds=86400&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=A0AEC0&include_all_commits=true&count_private=true" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hao610&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=A0AEC0&langs_count=6" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hao610&cache_seconds=86400&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=A0AEC0&langs_count=6" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Hao610&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=A0AEC0&dates=A0AEC0" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=Hao610&cache_seconds=86400&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=A0AEC0&dates=A0AEC0" width="60%"/>
 
 </div>
 
