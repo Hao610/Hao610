@@ -76,10 +76,9 @@ Location    : Malaysia
 
 ---
 
-## 📊 GitHub Stats (Cyberpunk Deep Theme)
+## 📈 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api/?username=Hao610&#x26;theme=tokyonight&#x26;hide_border=true&#x26;bg_color=0D1117&#x26;title_color=00D9FF&#x26;text_color=A0AEC0&#x26;show_icons=true" height="195">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hao610&#x26;layout=compact&#x26;theme=tokyonight&#x26;hide_border=true&#x26;bg_color=0D1117&#x26;title_color=00D9FF&#x26;text_color=A0AEC0&#x26;langs_count=8" height="195">
+<img src="https://yourinsights.vercel.app/api/insight?username=Hao610&#x26;theme=radical&#x26;graph=true&#x26;languages=true&#x26;streak=true&#x26;stats=true&#x26;header=true&#x26;summary=true&#x26;profile=true" alt="GitHub Activity" width="100%">
 
 ---
 
