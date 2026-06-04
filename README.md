@@ -1,9 +1,8 @@
 <div align="center">
 
-  <!-- 动态打字 Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=28&color=00D9FF&center=true&vCenter=true&width=780&lines=Loi+Chiang+Hao" alt="Name"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=28&color=00D9FF&center=true&vCenter=true&width=780&lines=Loi+Chiang+Hao" alt="Name"/>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=600&size=18&color=7B00FF&center=true&vCenter=true&width=780&lines=Cybersecurity+%26+AI+Developer+%7C+Full-Stack+Engineer" alt="Role"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=18&color=7B00FF&center=true&vCenter=true&width=780&lines=Cybersecurity+%26+AI+Developer+%7C+Full-Stack+Engineer" alt="Role"/>
 
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px" alt="wave"/>
@@ -136,7 +135,6 @@ Final Year | Communications & Networking | AI-powered threat detection research.
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:00D9FF,70:7B00FF,100:0D1117&height=130&section=footer&text=Always%20Learning.%20Always%20Securing.%20🔐&fontSize=19&fontColor=ffffff&fontAlignY=68&animation=twinkling" width="100%"/>
   <br/><br/>
-  <span style="color: #00D9FF; font-family: monospace; font-size: 14.5px; letter-spacing: 3.5px; text-shadow: 0 0 12px #00D9FF;">
-    © 2026 LOI CHIANG HAO • CYBERSPACE PROTOCOL • MALAYSIA⚡
-  </span>
+  
+  `© 2026 LOI CHIANG HAO • CYBERSPACE PROTOCOL • MALAYSIA⚡`
 </div>
