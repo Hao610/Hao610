@@ -1,17 +1,14 @@
 <div align="center">
 
-<!-- Capsule Render Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:00d9ff,100:0a0a0a&height=200&section=header&text=LOI%20CHIANG%20HAO&fontSize=50&fontColor=00d9ff&fontAlignY=38&desc=Cybersecurity%20%26%20AI%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=58&descSize=16&descColor=a0aec0&animation=fadeIn" width="100%"/>
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=🔐+Moving+from+Passive+Monitoring+→+Proactive+Defence;🤖+Building+AI-Powered+Cybersecurity+Systems;🏗️+Zero-Trust+Full-Stack+Architectures;🎓+Final+Year+IT+Student+%40+UTAR" alt="Typing SVG" />
+<!-- LOCAL SVG HEADER — 100% stable, no external dependency -->
+<img src="header.svg" width="100%" alt="Loi Chiang Hao - Cybersecurity & AI Developer"/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hao610&color=00D9FF&style=flat-square&label=Profile+Views)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-loichianghao.vercel.app-00D9FF?style=flat-square)](https://loichianghao.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Loi_Chiang_Hao-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loi-chiang-hao)
 [![Email](https://img.shields.io/badge/Email-loichianghao@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:loichianghao@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Hao610&color=00D9FF&style=flat-square&label=Views)
 
 </div>
 
@@ -19,28 +16,22 @@
 
 ## ⚡ About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hao610&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=A0AEC0&langs_count=6" width="38%" />
-
 ```yaml
 Name     : Loi Chiang Hao
-Role     : Cybersecurity & AI Developer
-           Full-Stack Engineer
+Role     : Cybersecurity & AI Developer  |  Full-Stack Engineer
 School   : UTAR — Info Tech (Comms & Networking)
-Status   : Final Year Student  |  Open to Opportunities
+Status   : Final Year (2022–Present)  |  Open to Opportunities
 MUET     : Band 4.0
 
 Focus:
-  - AI-Driven Cybersecurity & IDS
+  - AI-Driven Cybersecurity & Intrusion Detection
   - Zero-Trust BFF Architectures
-  - ML Models & RAG Pipelines
-  - Real-Time Threat Analysis
+  - ML Models, RAG Pipelines & LLM Engineering
+  - Real-Time Threat Analysis & Network Forensics
 
 Philosophy:
-  "Moving from Passive Monitoring
-         → Proactive Defence"
+  "Moving from Passive Monitoring → Proactive Defence"
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -84,9 +75,15 @@ Philosophy:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hao610&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=A0AEC0&include_all_commits=true&count_private=true" height="160" />
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hao610&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=A0AEC0&dates=A0AEC0" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hao610&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=A0AEC0&include_all_commits=true&count_private=true" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hao610&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=A0AEC0&langs_count=6" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Hao610&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=A0AEC0&dates=A0AEC0" width="60%"/>
 
 </div>
 
@@ -98,24 +95,16 @@ Philosophy:
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| **HAO • PORTFOLIO** | AI-powered portfolio with HaoGPT RAG assistant, zero-trust BFF, Redis rate limiting & edge deployment | `Next.js 16` `TypeScript` `RAG` `Vercel Edge` | [🌐 Live](https://loichianghao.vercel.app) |
+| **HAO • PORTFOLIO** | AI-powered portfolio with HaoGPT RAG assistant, zero-trust BFF, Redis rate limiting & Vercel edge deployment | `Next.js 16` `TypeScript` `RAG` `Vercel Edge` | [🌐 Live](https://loichianghao.vercel.app) |
 | **TrustGuard AI** | V HACK 2026 — Hybrid fraud detection combining XGBoost ML & behavioural heuristics for digital wallets | `XGBoost` `FastAPI` `Python` | [📂 Repo](https://github.com/Hao610/VHACK_TrustGuard-AI) |
 | **Aegis Edge IDS** | Lightweight AI-driven IDS for edge nodes, real-time traffic anomaly detection with async cloud sync | `Python` `ML` `Networking` | [📂 Repo](https://github.com/Hao610/Aegis-Edge) |
 | **AI Email Threat Detection** | Chrome extension using MLP + One-Class SVM fused with SMTP/SPF forensics & SHAP explainability | `Python` `Scikit-Learn` `Chrome Ext` | — |
 | **Kedai Kopi Gedok** | Secure F&B landing page with stateful session revocation, distributed rate-limiting & AI spam honeypots | `React` `Supabase` `BFF` | [🌐 Live](https://kedai-kopi-gedok.vercel.app/) |
-| **E-commerce Analytics** | Distributed analytics platform with real-time data sharding, async aggregation & fault tolerance | `Flask` `Streamlit` `Asyncio` `Supabase` | [📂 Repo](https://github.com/Hao610/DistributedComputerSystem_Asg) |
-| **Smart Factory Simulation** | IIoT smart factory sim with Node-RED, MQTT telemetry, SVG dashboards & real-time logic control | `Node-RED` `IoT` `MQTT` `JavaScript` | — |
-| **NeighborLink App** | Android community resource sharing app with MVVM, offline-first caching & gamified credit system | `Kotlin` `MVVM` `Retrofit` | — |
-| **Cybersecurity Analysis** | Co-authored penetration testing & defence report covering Ransomware & Social Engineering vectors | `Metasploit` `Snort IDS` | — |
+| **E-commerce Analytics** | Distributed analytics platform with real-time data sharding, async aggregation & partial fault tolerance | `Flask` `Streamlit` `Asyncio` `Supabase` | [📂 Repo](https://github.com/Hao610/DistributedComputerSystem_Asg) |
+| **Smart Factory Simulation** | IIoT smart factory sim with Node-RED, MQTT telemetry, SVG interactive dashboards & real-time logic control | `Node-RED` `IoT` `MQTT` `JavaScript` | — |
+| **NeighborLink App** | Android community resource sharing app with MVVM, offline-first caching & gamified credit reputation system | `Kotlin` `MVVM` `Retrofit` `REST API` | — |
+| **Cybersecurity Analysis** | Co-authored pen-testing & defence report covering Ransomware & Social Engineering attack vectors | `Metasploit` `Snort IDS` | — |
 
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hao610&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true" width="95%"/>
 </div>
 
 ---
@@ -128,7 +117,7 @@ Philosophy:
 ![Google Cloud](https://img.shields.io/badge/Responsible_AI_for_Developers-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Google](https://img.shields.io/badge/Gemini_for_Data_Scientists_%26_Analysts-Google-34A853?style=flat-square&logo=google&logoColor=white)
 ![Alibaba Cloud](https://img.shields.io/badge/Generative_AI_%2F_LLM_Concepts-Alibaba_Cloud-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white)
-![ISC2](https://img.shields.io/badge/ISC2_Candidate-ISC2-006400?style=flat-square&logoColor=white)
+![ISC2](https://img.shields.io/badge/ISC2_Candidate-006400?style=flat-square&logoColor=white)
 ![Mastercard](https://img.shields.io/badge/Cybersecurity_Job_Simulation-Mastercard_%26_Datacom-EB001B?style=flat-square&logo=mastercard&logoColor=white)
 ![TRIZ](https://img.shields.io/badge/Level_1_TRIZ_Practitioner-INTA-5C3D99?style=flat-square)
 
@@ -140,19 +129,18 @@ Philosophy:
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hao610/Hao610/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hao610/Hao610/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Hao610/Hao610/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hao610/Hao610/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hao610/Hao610/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Hao610/Hao610/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 </div>
 
-> 💡 **Enable the snake:** In your `Hao610` repo, go to **Settings → Actions → General → Allow all actions**, then create `.github/workflows/snake.yml` — [click here for the workflow template](https://github.com/Platane/snk#readme)
-
 ---
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:00d9ff,100:0a0a0a&height=120&section=footer&text=Always+Learning.+Always+Securing.&fontSize=16&fontColor=a0aec0&fontAlignY=65&animation=fadeIn" width="100%"/>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1500&color=606060&center=true&vCenter=true&width=500&lines=⚡+Built+with+passion+by+Loi+Chiang+Hao+·+2026;🔐+Security+is+not+a+product%2C+but+a+process." alt="Footer" />
+
+![Footer](https://img.shields.io/badge/Always_Learning._Always_Securing._🔐-0D1117?style=for-the-badge&labelColor=0D1117&color=00D9FF)
+
+<sub>⚡ Built with passion · <a href="https://loichianghao.vercel.app">loichianghao.vercel.app</a> · 2026</sub>
+
 </div>

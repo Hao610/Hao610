@@ -1,0 +1,160 @@
+<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .grid-line { stroke: #1a2a3a; stroke-width: 0.5; }
+      .scan { fill: none; stroke: #00d9ff; stroke-width: 1; opacity: 0.15; }
+      .name { font-family: 'Courier New', monospace; font-size: 42px; font-weight: 700; fill: #00d9ff; letter-spacing: 6px; }
+      .role { font-family: 'Courier New', monospace; font-size: 15px; fill: #a0aec0; letter-spacing: 2px; }
+      .tag { font-family: 'Courier New', monospace; font-size: 12px; fill: #00d9ff; opacity: 0.6; }
+      .dot { fill: #00d9ff; }
+      .corner { stroke: #00d9ff; stroke-width: 1.5; fill: none; }
+      .bar-bg { fill: #1a2a3a; rx: 2; }
+      .bar-fill { fill: #00d9ff; opacity: 0.7; }
+      .bar-label { font-family: 'Courier New', monospace; font-size: 10px; fill: #607080; }
+    </style>
+
+    <!-- Glow filter -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow-strong">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="280" class="bg"/>
+
+  <!-- Grid lines vertical -->
+  <line x1="90" y1="0" x2="90" y2="280" class="grid-line"/>
+  <line x1="180" y1="0" x2="180" y2="280" class="grid-line"/>
+  <line x1="270" y1="0" x2="270" y2="280" class="grid-line"/>
+  <line x1="360" y1="0" x2="360" y2="280" class="grid-line"/>
+  <line x1="450" y1="0" x2="450" y2="280" class="grid-line"/>
+  <line x1="540" y1="0" x2="540" y2="280" class="grid-line"/>
+  <line x1="630" y1="0" x2="630" y2="280" class="grid-line"/>
+  <line x1="720" y1="0" x2="720" y2="280" class="grid-line"/>
+  <line x1="810" y1="0" x2="810" y2="280" class="grid-line"/>
+
+  <!-- Grid lines horizontal -->
+  <line x1="0" y1="56" x2="900" y2="56" class="grid-line"/>
+  <line x1="0" y1="112" x2="900" y2="112" class="grid-line"/>
+  <line x1="0" y1="168" x2="900" y2="168" class="grid-line"/>
+  <line x1="0" y1="224" x2="900" y2="224" class="grid-line"/>
+
+  <!-- Corner brackets top-left -->
+  <polyline points="20,40 20,20 40,20" class="corner"/>
+  <!-- Corner brackets top-right -->
+  <polyline points="860,40 860,20 840,20" class="corner"/>
+  <!-- Corner brackets bottom-left -->
+  <polyline points="20,240 20,260 40,260" class="corner"/>
+  <!-- Corner brackets bottom-right -->
+  <polyline points="860,240 860,260 840,260" class="corner"/>
+
+  <!-- Top tag -->
+  <text x="50" y="16" class="tag">[ PROFILE_INIT ]</text>
+  <text x="720" y="16" class="tag">STATUS: AVAILABLE</text>
+
+  <!-- Scanning line animation -->
+  <line x1="0" y1="0" x2="900" y2="0" stroke="#00d9ff" stroke-width="1.5" opacity="0.4">
+    <animate attributeName="y1" from="0" to="280" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="y2" from="0" to="280" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;0.1;0.4" dur="3s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Blinking dots left -->
+  <circle cx="32" cy="100" r="3" class="dot">
+    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="32" cy="114" r="3" class="dot" opacity="0.4">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="1.2s" begin="0.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="32" cy="128" r="3" class="dot" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.8;0.2" dur="1.2s" begin="0.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Main name — letter by letter reveal animation -->
+  <g filter="url(#glow)">
+    <text y="120" class="name" text-anchor="middle" x="450">
+      LOI CHIANG HAO
+      <animate attributeName="opacity" values="0;0;1" dur="0.8s" fill="freeze"/>
+    </text>
+  </g>
+
+  <!-- Underline glow -->
+  <line x1="160" y1="130" x2="740" y2="130" stroke="#00d9ff" stroke-width="1" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.5" dur="1.2s" fill="freeze"/>
+    <animate attributeName="x1" values="450;160" dur="0.4s" begin="0.8s" fill="freeze"/>
+    <animate attributeName="x2" values="450;740" dur="0.4s" begin="0.8s" fill="freeze"/>
+  </line>
+
+  <!-- Role text -->
+  <text x="450" y="158" class="role" text-anchor="middle" opacity="0">
+    CYBERSECURITY &amp; AI DEVELOPER  |  FULL-STACK ENGINEER
+    <animate attributeName="opacity" values="0;0;0;1" dur="1.5s" fill="freeze"/>
+  </text>
+
+  <!-- Tags row -->
+  <text x="450" y="185" class="tag" text-anchor="middle" opacity="0">
+    [ AI-DRIVEN IDS ]  ·  [ ZERO-TRUST BFF ]  ·  [ RAG PIPELINES ]  ·  [ ML DEFENCE ]
+    <animate attributeName="opacity" values="0;0;0;0;1" dur="2s" fill="freeze"/>
+  </text>
+
+  <!-- Bottom info bar -->
+  <rect x="50" y="210" width="800" height="1" fill="#00d9ff" opacity="0.2"/>
+
+  <!-- Left: University -->
+  <text x="60" y="232" class="tag" opacity="0">
+    🎓 UTAR  |  INFO TECH (COMMS &amp; NETWORKING)
+    <animate attributeName="opacity" values="0;0;0;0;0;1" dur="2.5s" fill="freeze"/>
+  </text>
+
+  <!-- Right: Open to work -->
+  <circle cx="820" cy="228" r="4" fill="#00ff88" opacity="0">
+    <animate attributeName="opacity" values="0;0;0;0;0;1" dur="2.5s" fill="freeze"/>
+    <animate attributeName="r" values="4;6;4" dur="1.5s" begin="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="830" y="232" class="tag" text-anchor="start" opacity="0" fill="#00ff88">
+    OPEN TO OPPORTUNITIES
+    <animate attributeName="opacity" values="0;0;0;0;0;1" dur="2.5s" fill="freeze"/>
+  </text>
+
+  <!-- Cursor blink after name -->
+  <rect x="742" y="97" width="3" height="30" fill="#00d9ff">
+    <animate attributeName="opacity" values="1;0;1" dur="0.8s" begin="0.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;0;1" dur="0.8s" fill="freeze"/>
+  </rect>
+
+  <!-- Right side mini stats bars -->
+  <text x="820" y="80" class="bar-label" text-anchor="middle">STACK</text>
+  <rect x="800" y="86" width="40" height="5" rx="2" class="bar-bg"/>
+  <rect x="800" y="86" width="38" height="5" rx="2" fill="#00d9ff" opacity="0.7">
+    <animate attributeName="width" from="0" to="38" dur="1.5s" begin="1s" fill="freeze"/>
+  </rect>
+  <text x="800" y="100" class="bar-label">Python</text>
+
+  <rect x="800" y="103" width="40" height="5" rx="2" class="bar-bg"/>
+  <rect x="800" y="103" width="34" height="5" rx="2" fill="#00d9ff" opacity="0.7">
+    <animate attributeName="width" from="0" to="34" dur="1.5s" begin="1.2s" fill="freeze"/>
+  </rect>
+  <text x="800" y="117" class="bar-label">Next.js</text>
+
+  <rect x="800" y="120" width="40" height="5" rx="2" class="bar-bg"/>
+  <rect x="800" y="120" width="30" height="5" rx="2" fill="#00d9ff" opacity="0.7">
+    <animate attributeName="width" from="0" to="30" dur="1.5s" begin="1.4s" fill="freeze"/>
+  </rect>
+  <text x="800" y="134" class="bar-label">ML/AI</text>
+
+  <rect x="800" y="137" width="40" height="5" rx="2" class="bar-bg"/>
+  <rect x="800" y="137" width="36" height="5" rx="2" fill="#00ff88" opacity="0.7">
+    <animate attributeName="width" from="0" to="36" dur="1.5s" begin="1.6s" fill="freeze"/>
+  </rect>
+  <text x="800" y="151" class="bar-label">Security</text>
+
+  <!-- Bottom tag -->
+  <text x="50" y="268" class="tag" opacity="0.4">// loichianghao.vercel.app</text>
+  <text x="750" y="268" class="tag" opacity="0.4">UTAR · 2022–2026</text>
+</svg>
