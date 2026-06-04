@@ -77,7 +77,7 @@ Location    : Malaysia
 
 ## 📈 GitHub Activity
 
-<img src="https://git-hub-insights-kohl.vercel.app/api/insight?username=Hao610&theme=ocean_radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&v=1" alt="GitHub Activity" width="100%">
+<img src="https://git-hub-insights-kohl.vercel.app/api/insight?username=Hao610&theme=ocean_radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&v=2" alt="GitHub Activity" width="100%">
 
 ---
 
