@@ -25,9 +25,9 @@
 ```bash
 Name        : Loi Chiang Hao
 Role        : Cybersecurity & AI Developer | Full-Stack Engineer
-School      : Universiti Tunku Abdul Rahman (UTAR)
+School      : Universiti Tunku Abdul Rahman (UTAR) | 2022 – Present
 Major       : Information Technology (Communications & Networking)
-Status      : Final Year (2022 – Present) | Open to Opportunities
+Status      : Final Year Student | Actively seeking opportunities
 MUET        : Band 4.0
 Location    : Malaysia
 ```
