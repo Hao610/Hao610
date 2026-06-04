@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
-<a href="https://hao-portfolio.vercel.app">
+<a href="https://loichianghao.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Loi+Chiang+Hao;Cybersecurity+%26+AI+Developer" alt="Typing SVG" />
 </a>
 
@@ -11,9 +11,9 @@
 <br/>
 
 <!-- Profile views & Social badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00D9FF&style=flat-square&label=Profile+Views)
-[![Portfolio](https://img.shields.io/badge/Portfolio-HAO%20%E2%80%A2%20PORTFOLIO-00D9FF?style=flat-square&logo=vercel&logoColor=white)](https://hao-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+![Profile Views](https://komarev.com/ghpvc/?username=Hao610&color=00D9FF&style=flat-square&label=Profile+Views)
+[![Portfolio](https://img.shields.io/badge/Portfolio-HAO%20%E2%80%A2%20PORTFOLIO-00D9FF?style=flat-square&logo=vercel&logoColor=white)](https://loichianghao.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/loi-chiang-hao)
 
 </div>
 
@@ -89,12 +89,12 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=A0AEC0" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=A0AEC0" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hao610&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=A0AEC0" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hao610&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=A0AEC0" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hao610&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
 </div>
 
 ---
@@ -106,7 +106,7 @@ me.say_hi()
 
 | 🔐 Project | 🛠️ Stack | ⭐ Highlight |
 |---|---|---|
-| [**HAO • PORTFOLIO**](https://hao-portfolio.vercel.app) | Next.js 16, RAG, Vercel Edge | AI assistant with zero-trust BFF |
+| [**HAO • PORTFOLIO**](https://loichianghao.vercel.app) | Next.js 16, RAG, Vercel Edge | AI assistant with zero-trust BFF |
 | **TrustGuard AI** | XGBoost, FastAPI, Python | V HACK 2026 fraud detection platform |
 | **Aegis Edge IDS** | Python, ML, JSON Telemetry | Real-time edge intrusion detection |
 | **AI Email Threat Detection** | MLP, SVM, SHAP, Chrome Ext | Zero-day phishing detection |
@@ -121,7 +121,7 @@ me.say_hi()
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hao610&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
 </div>
 
 ---
@@ -151,9 +151,9 @@ me.say_hi()
 <!-- To enable this, go to your GitHub repo > Actions > set up the snake workflow -->
 <!-- https://github.com/Platane/snk -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hao610/Hao610/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hao610/Hao610/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Hao610/Hao610/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -165,9 +165,9 @@ me.say_hi()
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_HAO%20%E2%80%A2%20PORTFOLIO-00D9FF?style=for-the-badge)](https://hao-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_HAO%20%E2%80%A2%20PORTFOLIO-00D9FF?style=for-the-badge)](https://loichianghao.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/loi-chiang-hao)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loichianghao@gmail.com)
 
 <br/>
 
