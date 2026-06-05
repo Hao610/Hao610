@@ -77,7 +77,7 @@ Location    : Malaysia
 
 ## 📈 GitHub Activity
 
-<img src="https://git-hub-insights-kohl.vercel.app/api/insight?username=Hao610&theme=ocean_radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&v=2" alt="GitHub Activity" width="100%">
+<img src="https://git-hub-insights-kohl.vercel.app/api/insight?username=Hao610&theme=ocean_radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&v=3" alt="GitHub Activity" width="100%">
 
 ---
 
@@ -86,6 +86,7 @@ Location    : Malaysia
 | Project                          | Description                                                                 | Tech Stack                                      | Link |
 |----------------------------------|-----------------------------------------------------------------------------|-------------------------------------------------|------|
 | **HAO • PORTFOLIO**              | AI-powered personal platform with HaoGPT (RAG assistant), zero-trust BFF, Redis rate limiting & edge deployment | Next.js 16, TypeScript, Tailwind v4, Sanity, RAG, Vercel Edge | [🌐 Live](https://loichianghao.vercel.app) |
+| **AI Model Atlas** | Bilingual 0-to-100 AI architecture curriculum & open-source knowledge base, featuring a production-ready RAG system with semantic caching. | Python, Streamlit, RAG, OSS Architecture | 📂 [Repo](https://github.com/Hao610/AI-Model-Atlas) |
 | **TrustGuard AI**                | Hybrid fraud detection system using XGBoost + behavioural heuristics for digital wallets | XGBoost, FastAPI, Python                        | [📂 Repo](https://github.com/Hao610/VHACK_TrustGuard-AI) |
 | **Aegis Edge IDS**               | Lightweight real-time AI intrusion detection system for edge nodes         | Python, ML, Networking                          | [📂 Repo](https://github.com/Hao610/Aegis-Edge) |
 | **AI Email Threat Detection**    | Chrome extension with MLP + One-Class SVM + SMTP/SPF forensics & SHAP explainability | Python, Scikit-Learn, Chrome Extension         | — |
