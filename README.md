@@ -89,12 +89,10 @@ Location    : Malaysia
 | **AI Model Atlas** | Bilingual 0-to-100 AI curriculum & open-source architecture base. A Cognitive RAG system featuring hybrid retrieval, semantic caching, and a dual-license OSS design. | Python, RAG, System Architecture, Open Source | 📂 [Repo](https://github.com/Hao610/AI-Model-Atlas) |
 | **Day 396 • Cybernetic Archive** | An anonymous memory archiving platform. Engineered with strict Supabase RLS for immutable storage and a custom Caddy reverse proxy on Hugging Face Docker for global firewall penetration. | React, Supabase RLS, Caddy, Docker, Hugging Face | [🌐 Live](https://day396.vercel.app/) |
 | **TrustGuard AI**                | Hybrid fraud detection system using XGBoost + behavioural heuristics for digital wallets | XGBoost, FastAPI, Python                        | [📂 Repo](https://github.com/Hao610/VHACK_TrustGuard-AI) |
-| **Aegis Edge IDS**               | Lightweight real-time AI intrusion detection system for edge nodes         | Python, ML, Networking                          | [📂 Repo](https://github.com/Hao610/Aegis-Edge) |
 | **AI Email Threat Detection**    | Chrome extension with MLP + One-Class SVM + SMTP/SPF forensics & SHAP explainability | Python, Scikit-Learn, Chrome Extension         | — |
 | **Kedai Kopi Gedok**             | Secure F&B platform with zero-trust BFF, stateful session revocation & AI spam defense | React, Supabase, Framer Motion                  | [🌐 Live](https://kedai-kopi-gedok.vercel.app/) |
 | **Distributed E-commerce Analytics** | High-availability distributed analytics with real-time sharding & async aggregation | Flask, Streamlit, Asyncio, Supabase             | [📂 Repo](https://github.com/Hao610/DistributedComputerSystem_Asg) |
 | **Smart Factory Simulation**     | IIoT simulation with real-time MQTT telemetry & interactive SVG dashboards | Node-RED, MQTT, JavaScript                      | — |
-| **NeighborLink**                 | Android community app with offline-first caching & gamified reputation system | Kotlin, MVVM, Retrofit                          | — |
 
 ---
 
