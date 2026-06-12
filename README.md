@@ -102,7 +102,7 @@ Location    : Malaysia
 Managed system deployments, server setups, DevExpress reports, and client support.
 
 **Undergraduate IT Student** — *Universiti Tunku Abdul Rahman (UTAR)* (Oct 2022 – Present)  
-Final Year | Communications & Networking | AI-powered threat detection research.
+Final Year | Communications & Networking | AI-powered Email Spam detection Development.
 
 ---
 
