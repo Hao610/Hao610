@@ -2,11 +2,11 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=28&color=00D9FF&center=true&vCenter=true&width=780&lines=Loi+Chiang+Hao" alt="Name"/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=18&color=7B00FF&center=true&vCenter=true&width=780&lines=Cybersecurity+%26+AI+Developer+%7C+Full-Stack+Engineer" alt="Role"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=18&color=7B00FF&center=true&vCenter=true&width=780&lines=Cybersecurity+%26+AI+Engineer+%7C+Cloud+Infrastructure+%7C+DevSecOps" alt="Role"/>
 
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px" alt="wave"/>
-    <strong>Open to exciting opportunities in AI Security & Full-Stack roles</strong>
+    <strong>Building secure AI systems, resilient cloud infrastructure, and security-first engineering practices</strong>
   </p>
 
   [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-loichianghao.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://loichianghao.vercel.app)
