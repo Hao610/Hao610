@@ -87,7 +87,7 @@ Location    : Malaysia
 |----------------------------------|-----------------------------------------------------------------------------|-------------------------------------------------|------|
 | **HAO • PORTFOLIO**              | AI-powered personal platform with HaoGPT (RAG assistant), zero-trust BFF, Redis rate limiting & edge deployment | Next.js 16, TypeScript, Tailwind v4, Sanity, RAG, Vercel Edge | [🌐 Live](https://loichianghao.vercel.app) |
 | **AI Model Atlas** | Bilingual 0-to-100 AI curriculum & open-source reference architecture. Features a secure RAG system with hybrid retrieval, active guardrails, and automated red teaming. | Python, RAG, AI DevSecOps, ChromaDB | 📂 [Repo](https://github.com/Hao610/AI-Model-Atlas) |
-| **MailGuard AI – A Method of Detecting Email Spam Using Artificial Intelligence (AI) and Chrome Extension**    | Zero-egress Chrome extension featuring local MLP + OCSVM inference, FFT spectral anomaly detection, 4-layer caching, and local SHAP XAI. | JavaScript (ES6+), Python, Manifest V3, OAuth2, Scikit-Learn         | — |
+| **MailGuard AI – A Method of Detecting Email Spam Using Artificial Intelligence (AI) and Chrome Extension**    | Zero-egress Chrome extension for real-time Gmail security. Engineered with local MLP + OCSVM joint inference, FFT spectral anomaly detection to prevent homoglyph evasion, a 4-layer browser cache, and localized SHAP XAI tooltips. | JavaScript (ES6+), Python, Manifest V3, OAuth2, Scikit-Learn         | — |
 | **Day 396 • Cybernetic Archive** | An anonymous memory archiving platform. Engineered with strict Supabase RLS for immutable storage and a custom Caddy reverse proxy on Hugging Face Docker for global firewall penetration. | React, Supabase RLS, Caddy, Docker, Hugging Face | [🌐 Live](https://day396.vercel.app/) |
 | **TrustGuard AI**                | Hybrid fraud detection system using XGBoost + behavioural heuristics for digital wallets | XGBoost, FastAPI, Python                        | [📂 Repo](https://github.com/Hao610/VHACK_TrustGuard-AI) |
 | **Kedai Kopi Gedok**             | Secure F&B platform with zero-trust BFF, stateful session revocation & AI spam defense | React, Supabase, Framer Motion                  | [🌐 Live](https://kedai-kopi-gedok.vercel.app/) |
@@ -102,7 +102,7 @@ Location    : Malaysia
 Managed system deployments, server setups, DevExpress reports, and client support.
 
 **Undergraduate IT Student** — *Universiti Tunku Abdul Rahman (UTAR)* (Oct 2022 – Present)  
-Final Year | Communications & Networking | AI-powered Email Spam detection Development.
+Final Year | Communications & Networking | Sole Developer of MailGuard AI (Client-Side Phishing Detection Framework).
 
 ---
 
